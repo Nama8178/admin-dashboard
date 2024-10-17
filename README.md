@@ -12,7 +12,7 @@ This project is an **Admin Dashboard** built using **React.js**. The dashboard o
 - Modular and reusable components.
 
 ## Demo
-![Admin Dashboard](https://github.com/user-attachments/assets/55bc473b-f5da-49c7-858e-d154342eacea)
+![recording-2024-10-17-23-16-42-ezgif com-speed](https://github.com/user-attachments/assets/c900b245-db27-4b2c-a658-3c41d218582f)
 
 ## Tech Stack
 
