@@ -2,16 +2,6 @@
 
 This project is an **Admin Dashboard** built using **React.js**. The dashboard offers various interactive features and visual data representations, making use of modern libraries like React Hooks, Framer Motion for animations, and React-ApexCharts for charts.
 
-## Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **React Hooks** for managing component state and lifecycle.
